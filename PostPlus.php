@@ -2,7 +2,6 @@
 
 /*
 * Plugin Name:          Post Plus
-* Plugin URI:           https://forgespider.com
 * Description:          This plugin requires Elementor and is used to add additional features to the Elementor Builder. This Plugin is specifically designed to enhance the builders Blog Post Features.
 * Version:              1.0
 * Requires at least:    5.3
